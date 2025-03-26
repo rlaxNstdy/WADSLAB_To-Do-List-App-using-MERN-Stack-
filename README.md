@@ -1,10 +1,10 @@
 # API Testing Screenshot
 
 ## addTodo endpoint testing 
-![](Endpoint_testing/add todo.jpg)
+![](Endpoint_testing/addtodo.jpg)
 
 ## getAllTodos endpoint testing
-![](Endpoint_testing/get all.jpg)
+![](Endpoint_testing/getall.jpg)
 
 ## updateTodo endpoint testing
 ![](Endpoint_testing/updaate.jpg)
